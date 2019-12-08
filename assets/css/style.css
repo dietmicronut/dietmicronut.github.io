@@ -104,7 +104,9 @@
     background-image: url("../images/bg-contact.jpg");
 
 }
-
+#contact a {
+    color: white;
+}
 
 /*
 * Footer
