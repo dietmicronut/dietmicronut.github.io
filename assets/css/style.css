@@ -107,6 +107,9 @@
 #contact a {
     color: white;
 }
+#contact a:hover {
+    color: #ff1a56;
+}
 
 /*
 * Footer
